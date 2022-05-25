@@ -15,3 +15,17 @@ resources/.arch-internal-preview.css
 *.docx
 *.doc
 *.pptx
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
